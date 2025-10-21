@@ -47,3 +47,55 @@ Fetch the changes, navigate into the cloned repository using the command line, a
 # Step 9:
 Pull changes, merge the changes you just fetched into your local copy of the repository, and use the command git pull.
 <img width="764" height="187" alt="Screenshot 2025-10-21 233959" src="https://github.com/user-attachments/assets/11e5ef14-715e-4367-8aeb-04bf13145596" />
+
+
+# Question 2
+# Step 1:
+Clone the repository you have created in GitHub
+<img width="735" height="128" alt="Screenshot 2025-10-21 233837" src="https://github.com/user-attachments/assets/3a2cad39-d340-4fda-ab13-8daf4cef0db9" />
+
+
+# Step 2:
+Create a new branch using the command.
+
+<img width="857" height="182" alt="Screenshot 2025-10-22 000749" src="https://github.com/user-attachments/assets/d9c39a67-11d3-47f9-aef8-11718dd7256d" />
+
+# Step 3:
+Switch to the new branch
+<img width="883" height="138" alt="Screenshot 2025-10-22 000836" src="https://github.com/user-attachments/assets/fc5e332d-8084-4d02-afce-6a965b6a0765" />
+
+
+# Step 4:
+Make some changes to the code in your local copy of the repository.
+<img width="926" height="118" alt="Screenshot 2025-10-22 001034" src="https://github.com/user-attachments/assets/5df05492-051e-4926-b0c9-5380734619fb" />
+
+
+# Step 5:
+Commit changes to the new branch.
+<img width="927" height="154" alt="Screenshot 2025-10-22 001043" src="https://github.com/user-attachments/assets/54ebf0a7-180e-49fc-b997-53b3a00ccd1a" />
+
+
+# Step 6:
+Switch back to the original branch
+<img width="843" height="186" alt="Screenshot 2025-10-22 001136" src="https://github.com/user-attachments/assets/0646bc60-e47d-4e0b-a2f2-bcb04a721cb1" />
+
+
+# Step 7:
+Merge the new branch.
+<img width="843" height="186" alt="Screenshot 2025-10-22 001136" src="https://github.com/user-attachments/assets/b57cdd12-fcdd-4c54-80b7-fa4c5faf1e41" />
+
+
+
+# Step 8:
+Push changes to the original branch
+
+<img width="828" height="292" alt="Screenshot 2025-10-22 002712" src="https://github.com/user-attachments/assets/8764a5d3-fe64-4efa-a0b7-03a10dc0a58b" />
+
+
+
+
+
+
+
+
+
