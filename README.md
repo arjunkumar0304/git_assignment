@@ -107,6 +107,7 @@ Push the changes to the new feature branch
 
 # Step 6:
 Create a pull request.
+<img width="1702" height="721" alt="Screenshot 2025-10-22 223001" src="https://github.com/user-attachments/assets/8c970128-de9a-4019-92da-5894938b20c6" />
 
 
 
@@ -114,6 +115,7 @@ Create a pull request.
 # Step 7:
 As another user in the master branch make some changes to the same file.
 
+<img width="1788" height="970" alt="Screenshot 2025-10-22 224716" src="https://github.com/user-attachments/assets/4d770a45-a965-42f0-84ba-90a621314dd8" />
 
 
 
