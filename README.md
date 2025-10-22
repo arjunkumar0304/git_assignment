@@ -57,45 +57,77 @@ Clone the repository you have created in GitHub
 
 # Step 2:
 Create a new branch using the command.
-
 <img width="857" height="182" alt="Screenshot 2025-10-22 000749" src="https://github.com/user-attachments/assets/d9c39a67-11d3-47f9-aef8-11718dd7256d" />
 
 # Step 3:
 Switch to the new branch
 <img width="883" height="138" alt="Screenshot 2025-10-22 000836" src="https://github.com/user-attachments/assets/fc5e332d-8084-4d02-afce-6a965b6a0765" />
 
-
 # Step 4:
 Make some changes to the code in your local copy of the repository.
 <img width="926" height="118" alt="Screenshot 2025-10-22 001034" src="https://github.com/user-attachments/assets/5df05492-051e-4926-b0c9-5380734619fb" />
-
 
 # Step 5:
 Commit changes to the new branch.
 <img width="927" height="154" alt="Screenshot 2025-10-22 001043" src="https://github.com/user-attachments/assets/54ebf0a7-180e-49fc-b997-53b3a00ccd1a" />
 
-
 # Step 6:
 Switch back to the original branch
 <img width="843" height="186" alt="Screenshot 2025-10-22 001136" src="https://github.com/user-attachments/assets/0646bc60-e47d-4e0b-a2f2-bcb04a721cb1" />
-
 
 # Step 7:
 Merge the new branch.
 <img width="843" height="186" alt="Screenshot 2025-10-22 001136" src="https://github.com/user-attachments/assets/b57cdd12-fcdd-4c54-80b7-fa4c5faf1e41" />
 
-
-
 # Step 8:
 Push changes to the original branch
-
 <img width="828" height="292" alt="Screenshot 2025-10-22 002712" src="https://github.com/user-attachments/assets/8764a5d3-fe64-4efa-a0b7-03a10dc0a58b" />
 
 
+# Question 3
+# Step 1:
+Create a feature branch
+<img width="728" height="64" alt="Screenshot 2025-10-22 221121" src="https://github.com/user-attachments/assets/d24426e1-ad4f-4f39-a4b9-c5250878e287" />
+
+# Step 2:
+Switch to the new branch.
+<img width="883" height="67" alt="Screenshot 2025-10-22 221136" src="https://github.com/user-attachments/assets/5c22343e-03e6-4ca2-b8c5-0450b796457b" />
+
+# Step 3:
+open the file and make some changes to it
+<img width="747" height="198" alt="Screenshot 2025-10-22 221210" src="https://github.com/user-attachments/assets/5e7548d0-92ef-497d-91d7-a4ef0eaf73d7" />
+
+# Step 4:
+Add and commit the changes to the new branch.
+<img width="935" height="174" alt="Screenshot 2025-10-22 221412" src="https://github.com/user-attachments/assets/7d22bde2-e1d3-4b8a-ae4b-5367f112d9fe" />
+
+# Step 5:
+Push the changes to the new feature branch
+<img width="908" height="303" alt="Screenshot 2025-10-22 221422" src="https://github.com/user-attachments/assets/797949d0-c5f4-45a2-bc49-76073281811c" />
+
+# Step 6:
+Create a pull request.
+
+
+
+
+# Step 7:
+As another user in the master branch make some changes to the same file.
+
+
+
+
+# Step 8:
+Add and commit the changes to the master branch.
+
+
+
+# Step 9:
+Push the changes to the master branch. 
 
 
 
 
 
-
+# Hint: git rebase
 
